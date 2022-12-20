@@ -1,3 +1,3 @@
 # ln-factory-optimized
 Factory-optimized Lightning channels for Bitcoin.
-See factoryoptimized10.pdf.
+See factoryoptimized11.pdf.
